@@ -1,0 +1,16 @@
+@import 'normalize.css';
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.teststep {
+	display: flex;
+
+	.screenshot {
+	  width: 176px;
+	  align-self: flex-start;
+	}
+}
